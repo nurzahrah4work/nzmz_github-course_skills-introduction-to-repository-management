@@ -6,14 +6,14 @@ At Mergington High, we take the security of our Extra-Curricular Activities webs
 since it contains student information. If you discover a security vulnerability, please follow these steps:
 
 1. **Do not** create an issue on this repository, disclose the vulnerability publicly, or discuss it with other teachers/students.
-1. In the top navigation of this repository, click the **Security** tab.
-1. In the top right, click the **Report a vulnerability** button.
-1. Fill out the provided form. It will request information like:
+2. In the top navigation of this repository, click the **Security** tab.
+3. In the top right, click the **Report a vulnerability** button.
+4. Fill out the provided form. It will request information like:
    - A description of the vulnerability
    - Steps to reproduce the issue
    - Potential impact on student data or website functionality
    - Suggested fix (if you have one)
-1. Email the IT Club faculty advisor at techsupport@mergingtonhigh.example.edu and inform them you have made a report. **Do not** include any vulnerability details.
+5. Email the IT Club faculty advisor at techsupport@mergingtonhigh.example.edu and inform them you have made a report. **Do not** include any vulnerability details.
 
 ## Response Timeline
 
